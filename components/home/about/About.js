@@ -40,12 +40,7 @@ export const About = () => {
             </p>
           </Reveal>
           <Reveal>
-            <div className={styles.links}>
-              <div className={styles.linksText}>
-                
-                <AiOutlineArrowRight />
-              </div>
-              <MyLinks />
+            
             </div>
           </Reveal>
         </div>
