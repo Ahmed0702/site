@@ -41,7 +41,7 @@ export const About = () => {
           </Reveal>
           <Reveal>
             
-            </div>
+            
           </Reveal>
         </div>
         <Stats />
