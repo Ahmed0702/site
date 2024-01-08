@@ -16,7 +16,7 @@ const experience = [
   {
     title: "Var Group",
     position: "Technical Analyst",
-    time: "2022 - Present",
+    time: "2023 - Present",
     location: "Bologna",
     description:
       "Management and resolution of software problems for companies throughout Italy",
@@ -32,7 +32,7 @@ const experience = [
   {
     title: "BrainyLabs S.r.L.",
     position: "Full-Stack Developer",
-    time: "2021 - 2022",
+    time: "2021 - 2023",
     location: "Hybrid",
     description:
       "During my experience as a full-stack developer, I played a key role in the analysis, design and implementation of complete software solutions. I've worked on projects ranging from implementing server-side functionality to creating engaging user interfaces.",
