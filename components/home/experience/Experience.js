@@ -16,7 +16,7 @@ const experience = [
   {
     title: "Var Group",
     position: "Technical Analyst",
-    time: "2023 - Present",
+    time: "2023 - 2023",
     location: "Bologna",
     description:
       "Management and resolution of software problems for companies throughout Italy",
@@ -32,7 +32,7 @@ const experience = [
   {
     title: "BrainyLabs S.r.L.",
     position: "Full-Stack Developer",
-    time: "2021 - 2023",
+    time: "2022 - 2023",
     location: "Hybrid",
     description:
       "During my experience as a full-stack developer, I played a key role in the analysis, design and implementation of complete software solutions. I've worked on projects ranging from implementing server-side functionality to creating engaging user interfaces.",
@@ -41,7 +41,7 @@ const experience = [
   {
     title: "Upwork",
     position: "UX/UI Designer, Front-End Developer",
-    time: "2018 - 2021",
+    time: "2021 - 2023",
     location: "Remote",
     description:
       "Freelance activity involved in the creation of web applications for small and medium-sized businesses, showing my skills in the field of web design and development",
