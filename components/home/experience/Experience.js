@@ -15,7 +15,7 @@ export const Experience = () => {
 const experience = [
   {
     title: "VarGroup S.p.A.",
-    position: "UX/UI Designer",
+    position: "UX/UI Designer - UX Strategist",
     time: "2021 - 2024",
     location: "Bologna",
     description:
