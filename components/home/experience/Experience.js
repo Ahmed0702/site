@@ -14,34 +14,34 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "Var Group",
-    position: "Technical Analyst",
-    time: "2023 - 2023",
+    title: "VarGroup S.p.A.",
+    position: "UX/UI Designer",
+    time: "2021 - 2024",
     location: "Bologna",
     description:
-      "Management and resolution of software problems for companies throughout Italy",
+      "Develop design solutions based on user requirements, creating mockups, prototypes, and graphic designs in line with the brand. Collaborate with a multidisciplinary team to optimize user experience and resolve UX issues.",
     tech: [
-      "Angular",
-      "Python",
-      "GCP",
+      "Figma",
+      "Sketch",
+      "Adobe Illustrator",
       "Git",
       "GitHub",
-      "Java",
+      "Axure RP",
     ],
   },
   {
     title: "BrainyLabs S.r.L.",
-    position: "Full-Stack Developer",
-    time: "2022 - 2023",
+    position: "Junior UX/UI Designer",
+    time: "2020 - 2021",
     location: "Hybrid",
     description:
-      "During my experience as a full-stack developer, I played a key role in the analysis, design and implementation of complete software solutions. I've worked on projects ranging from implementing server-side functionality to creating engaging user interfaces.",
-    tech: ["React", "Node.js", "PHP", "GraphQL", "Laravel", "MongoDB"],
+      "Support in designing user interfaces for web and apps, using wireframing tools and design software to improve the user experience based on feedback and project requirements.",
+    tech: ["Figma", "Affinity Designer", "Adobe Illustrator", "Canva", "Laravel", "MongoDB"],
   },
   {
     title: "Upwork",
-    position: "UX/UI Designer, Front-End Developer",
-    time: "2021 - 2023",
+    position: "Full-Stack Developer",
+    time: "2019 - 2020",
     location: "Remote",
     description:
       "Freelance activity involved in the creation of web applications for small and medium-sized businesses, showing my skills in the field of web design and development",
