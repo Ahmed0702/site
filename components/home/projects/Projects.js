@@ -134,7 +134,7 @@ const projects = [
     imgSrc: "project-imgs/social.png",
     code: "https://www.github.com",
     projectLink: "https://drive.google.com/file/d/1_SSyR-UelQ4ZMAcGTUp_YFte6tElJ90i/view?usp=sharing",
-    tech: ["Canva"],
+    tech: ["Figma"],
     description:
       "An innovative social media app for students 🌈",
     modalContent: (
@@ -144,6 +144,25 @@ const projects = [
           
         </p>
         <p>It allows you to carry out search operations, messaging and opportunities to be able to show yourself and distinguish yourself at a national school level</p>
+        
+      </>
+    ),
+  },
+      {
+    title: "ImpakterPro",
+    imgSrc: "project-imgs/Impakter.png",
+    code: "https://www.github.com",
+    projectLink: "https://drive.google.com/file/d/1_SSyR-UelQ4ZMAcGTUp_YFte6tElJ90i/view?usp=sharing",
+    tech: ["Figma"],
+    description:
+      "Innovative digital platform designed to promote and monitor corporate sustainability practices and achieve ESG objectives.",
+    modalContent: (
+      <>
+        <p>Mockup requested by an important company for the creation of an innovative digital platform that allows companies to promote, measure and support sustainable practices</p>
+        <p>
+          
+        </p>
+        <p>The platform is a versatile, intuitive and scalable tool to facilitate the monitoring of sustainability initiatives and the achievement of ESG objectives</p>
         
       </>
     ),
