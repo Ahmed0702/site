@@ -28,6 +28,15 @@ const experience = [
       "Axure RP",
     ],
   },
+   {
+    title: "BrainyLabs S.r.L.",
+    position: "Junior UX/UI Designer",
+    time: "2020 - 2021",
+    location: "Hybrid",
+    description:
+      "Support in designing user interfaces for web and apps, using wireframing tools and design software to improve the user experience based on feedback and project requirements.",
+    tech: ["Figma", "Affinity Designer", "Adobe Illustrator", "Canva", "Laravel", "MongoDB"],
+  },
   {
     title: "Upwork",
     position: "Full-Stack Developer",
