@@ -14,9 +14,9 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "VarGroup S.p.A.",
+    title: "AStudio",
     position: "UX/UI Designer - UX Strategist",
-    time: "2021 - 2024",
+    time: "2020 - 2024",
     location: "Bologna",
     description:
       "Develop design solutions based on user requirements, creating mockups, prototypes, and graphic designs in line with the brand. Collaborate with a multidisciplinary team to optimize user experience and resolve UX issues.",
@@ -24,19 +24,9 @@ const experience = [
       "Figma",
       "Sketch",
       "Adobe Illustrator",
-      "Git",
       "GitHub",
       "Axure RP",
     ],
-  },
-  {
-    title: "BrainyLabs S.r.L.",
-    position: "Junior UX/UI Designer",
-    time: "2020 - 2021",
-    location: "Hybrid",
-    description:
-      "Support in designing user interfaces for web and apps, using wireframing tools and design software to improve the user experience based on feedback and project requirements.",
-    tech: ["Figma", "Affinity Designer", "Adobe Illustrator", "Canva", "Laravel", "MongoDB"],
   },
   {
     title: "Upwork",
