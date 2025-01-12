@@ -133,7 +133,7 @@ const projects = [
     title: "Social School",
     imgSrc: "project-imgs/social.png",
     code: "https://www.github.com",
-    projectLink: "https://www.seerbit.com/",
+    projectLink: "",
     tech: ["Figma"],
     description:
       "An innovative social media app for students 🌈",
@@ -152,7 +152,7 @@ const projects = [
     title: "ImpakterPro",
     imgSrc: "project-imgs/Impakter.png",
     code: "https://www.github.com",
-        projectLink: "https://www.seerbit.com/",
+        projectLink: "",
     tech: ["Figma"],
     description:
       "Innovative digital platform designed to promote and monitor corporate sustainability practices and achieve ESG objectives.",
