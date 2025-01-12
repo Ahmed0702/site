@@ -29,7 +29,7 @@ const experience = [
     ],
   },
    {
-    title: "BrainyLabs S.r.L.",
+    title: "iBrainyLabs S.r.L.",
     position: "Junior UX/UI Designer",
     time: "2020 - 2021",
     location: "Hybrid",
