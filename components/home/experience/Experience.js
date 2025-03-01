@@ -16,7 +16,7 @@ const experience = [
   {
     title: "AStudio",
     position: "UX/UI Designer - UX Strategist",
-    time: "2020 - 2025",
+    time: "2020 - 2024",
     location: "Remote",
     description:
       "Develop design solutions based on user requirements, creating mockups, prototypes, and graphic designs in line with the brand. Collaborate with a multidisciplinary team to optimize user experience and resolve UX issues.",
