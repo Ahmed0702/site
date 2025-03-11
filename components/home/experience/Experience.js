@@ -16,7 +16,7 @@ const experience = [
   {
     title: "AStudio",
     position: "UX/UI Designer - UX Strategist",
-    time: "2020 - 2024",
+    time: "2023 - 2024",
     location: "Remote",
     description:
       "Develop design solutions based on user requirements, creating mockups, prototypes, and graphic designs in line with the brand. Collaborate with a multidisciplinary team to optimize user experience and resolve UX issues.",
@@ -31,8 +31,8 @@ const experience = [
    
   {
     title: "Upwork",
-    position: "Full-Stack Developer",
-    time: "2019 - 2020",
+    position: "Front - End Developer",
+    time: "2019 - 2023",
     location: "Remote",
     description:
       "Freelance activity involved in the creation of web applications for small and medium-sized businesses, showing my skills in the field of web design and development",
