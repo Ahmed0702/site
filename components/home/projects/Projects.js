@@ -22,7 +22,7 @@ const projects = [
     imgSrc: "project-imgs/example-project.jpg",
     code: "https://www.github.com",
     projectLink: "https://www.ajimcapital.com/",
-    tech: ["JS", "Vue", "Laravel", "MongoDB", "Phyton"],
+    tech: ["JS", "Vue", "Phyton"],
     description:
       "A Venture Capital investment company",
     modalContent: (
@@ -53,7 +53,7 @@ const projects = [
     imgSrc: "project-imgs/fullgap.png",
     code: "https://www.github.com",
     projectLink: "https://www.fullgap.co/",
-    tech: ["Node", "Express", "React", "Kafka", "MongoDB"],
+    tech: ["HTML & CSS3", "Express", "React", "Node"],
     description:
       "Onboard and chat with your clients, manage and automate your process",
     modalContent: (
@@ -89,7 +89,7 @@ const projects = [
     imgSrc: "project-imgs/raenest.png",
     code: "https://www.github.com",
     projectLink: "https://www.raenest.com/",
-    tech: ["NextJS", "Java", "Spring", "AWS Aurora"],
+    tech: ["NextJS", "Java", "Vue"],
     description:
       "Modern financial tool",
     modalContent: (
@@ -112,7 +112,7 @@ const projects = [
     imgSrc: "project-imgs/seerbit.png",
     code: "https://www.github.com",
     projectLink: "https://www.seerbit.com/",
-    tech: ["Python", "Laravel", "JavaScript", "MySQL"],
+    tech: ["React", "HTML", "JavaScript"],
     description:
       "A payment gateway solutions company 🌈",
     modalContent: (
@@ -134,7 +134,7 @@ const projects = [
     imgSrc: "project-imgs/social.png",
     code: "https://www.github.com",
     projectLink: "",
-    tech: ["Figma"],
+    tech: ["Figma" , "Canva"],
     description:
       "An innovative social media app for students 🌈",
     modalContent: (
