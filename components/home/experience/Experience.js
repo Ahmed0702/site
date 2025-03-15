@@ -35,7 +35,7 @@ const experience = [
     time: "2021 - 2023",
     location: "Hybrid",
     description:
-      "First and second level support for hardware, software and network",
+      "IT systems management and maintenance, including first and second level technical support, LAN/WAN administration, network configuration and security, software patch implementation, and hardware and software installation  ",
     tech: [
       "LAN/WLAN Conf.",
       "Firewall access policy",
