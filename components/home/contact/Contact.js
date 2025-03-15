@@ -15,14 +15,7 @@ export const Contact = () => {
         <Reveal width="100%">
           <p className={styles.contactCopy}>
             Shoot me an email if you want to connect! You can also find me on{" "}
-            <Link
-              href="https://www.instagram.com/a_niouerr"
-              target="_blank"
-              rel="nofollow"
-            >
-              Instagram
-            </Link>{" "}
-            or{" "}
+           
             <Link href="https://www.linkedin.com/in/ahmed-niouer-85b8b3174/" target="_blank" rel="nofollow">
               Linkedin
             </Link>{" "}
