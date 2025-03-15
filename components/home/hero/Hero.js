@@ -19,8 +19,8 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-         Recent graduate with experience in front-end development and IT support. Passionate about technology and problem solving, I combine technical skills to develop effective solutions for both web and IT infrastructure. 💻💡.
-          Let&apos;s connect!
+         Recent graduate with experience in front-end development and IT support. Passionate about technology and problem solving, I combine technical skills to develop effective solutions for both web and IT infrastructure.
+          Let&apos;s connect!💻💡
           </p>
         </Reveal>
         <Reveal>
