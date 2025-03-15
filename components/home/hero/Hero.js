@@ -19,9 +19,7 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-          a web design enthusiast and web app developer, ready to immerse myself in modern 
-          technologies and create unique user experiences, all with a magical touch that puts 
-          imagination first 🎨.
+         Recent graduate with experience in front-end development (HTML, CSS, JavaScript, React) and IT support (network management, security and user support). Passionate about technology and problem solving, I combine technical skills to develop effective solutions for both web and IT infrastructure. 💻💡.
           Let&apos;s connect!
           </p>
         </Reveal>
