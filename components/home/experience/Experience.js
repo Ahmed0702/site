@@ -19,7 +19,7 @@ const experience = [
     time: "2023 - 2024",
     location: "Remote",
     description:
-      "Develop design solutions based on user requirements, creating mockups, prototypes, and graphic designs in line with the brand. Collaborate with a multidisciplinary team to optimize user experience and resolve UX issues.",
+      "Frontend development of web and mobile applications using JavaScript frameworks, ensuring optimal performance, cross-platform compatibility, and enhanced scalability. Designed intuitive, responsive interfaces with Figma, Adobe XD, and Sketch, improving user experience and boosting conversion rates by 25% through optimized design.",
     tech: [
       "React",
       "Angular",
@@ -37,7 +37,7 @@ const experience = [
     time: "2021 - 2023",
     location: "Hybrid",
     description:
-      "IT systems management and maintenance, including first and second level technical support, LAN/WAN administration, network configuration and security, software patch implementation, and hardware and software installation  ",
+      "IT systems management and maintenance, including first and second level technical support, LAN/WAN administration, network configuration and security, software patch implementation, and hardware and software installation.",
     tech: [
       "LAN/WLAN Conf.",
       "Firewall access policy",
