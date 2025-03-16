@@ -15,17 +15,19 @@ export const Experience = () => {
 const experience = [
   {
     title: "AStudio",
-    position: "UX/UI Designer - UX Strategist",
+    position: "Front End developer - UX/UI Designer",
     time: "2023 - 2024",
     location: "Remote",
     description:
       "Develop design solutions based on user requirements, creating mockups, prototypes, and graphic designs in line with the brand. Collaborate with a multidisciplinary team to optimize user experience and resolve UX issues.",
     tech: [
+      "React",
+      "Angular",
+      "Vue",
+      "GitHub",
       "Figma",
       "Sketch",
       "Adobe Illustrator",
-      "GitHub",
-      "Axure RP",
     ],
   },
    
