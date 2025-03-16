@@ -24,7 +24,7 @@ const experience = [
       "React",
       "Angular",
       "Vue",
-      "GitHub",
+      "Next",
       "Figma",
       "Sketch",
       "Adobe Illustrator",
