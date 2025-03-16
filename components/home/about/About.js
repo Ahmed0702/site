@@ -22,7 +22,7 @@ export const About = () => {
           
           <Reveal>
             <p className={styles.aboutText}>
-              Outside of work, I love to paint, play music and football. 
+              Outside of work, you&apos;ll find me painting, making music, or kicking a football around—my favorite ways to stay creative and active! 
               Sometimes I read books that can inspire me!
             </p>
           </Reveal>
