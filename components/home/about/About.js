@@ -14,7 +14,7 @@ export const About = () => {
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
               Hey there! I&apos;m Ahmed, just in case you haven&apos;t  figured that out yet. 
-              I&apos;m a passionate Web Developer and IT Specialist eager to kickstart my career in Zurich, Switzerland. 
+              I&apos;m a passionate Web Developer and IT Specialist eager to kickstart my career in Zurich, SwitzerlanD 🇨🇭. 
               My expertise lies in frontend development, with a strong foundation in IT solutions and a deep love for modern technologies. 
               I thrive on crafting seamless digital experiences that blend innovation with aesthetics. 
             </p>
