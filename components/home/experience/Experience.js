@@ -14,9 +14,9 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "AStudio",
+    title: "UpWork - AStudio",
     position: "Front End developer - UX/UI Designer",
-    time: "2023 - 2024",
+    time: "2021 - 2024",
     location: "Remote",
     description:
       "Frontend development of web and mobile applications using JavaScript frameworks, ensuring optimal performance, cross-platform compatibility, and enhanced scalability. Designed intuitive, responsive interfaces with Figma, Adobe XD, and Sketch, improving user experience and boosting conversion rates by 25% through optimized design.",
@@ -34,7 +34,7 @@ const experience = [
   {
     title: "VarGroup",
     position: "IT Support Specialist",
-    time: "2021 - 2023",
+    time: "2020 - 2021",
     location: "Hybrid",
     description:
       "IT systems management and maintenance, including first and second level technical support, LAN/WAN administration, network configuration and security, software patch implementation, and hardware and software installation.",
