@@ -14,8 +14,8 @@ export const About = () => {
           <Reveal>
             <p className={`${styles.aboutText} ${styles.highlightFirstLetter}`}>
               Hey there! I&apos;m Ahmed, just in case you haven&apos;t  figured that out yet. 
-              I&apos;m a passionate Web Developer and IT Specialist eager to kickstart my career in Zurich, Switzerland. 
-              My expertise lies in frontend development, with a strong foundation in IT solutions and a deep love for modern technologies. 
+              I&apos;m a passionate Web Developer and UX/UI Designer eager to kickstart my career in Zurich, Switzerland. 
+              My expertise lies in frontend development, with a strong foundation in design solutions and a deep love for modern technologies. 
               I thrive on crafting seamless digital experiences that blend innovation with aesthetics. 
             </p>
           </Reveal>
@@ -29,7 +29,7 @@ export const About = () => {
           <Reveal>
             <p className={styles.aboutText}>
               I&apos;m passively looking for new positions where I can merge my
-              love for technology. If you think
+              love for technology and design. If you think
               you&apos;ve got an opening that I might like, let&apos;s connect
               🔗
             </p>
