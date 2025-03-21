@@ -14,40 +14,35 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "UpWork - AStudio",
-    position: "Front End developer - UX/UI Designer",
-    time: "2021 - 2024",
+    title: "AStudio",
+    position: "UX/UI Designer - UX Strategist",
+    time: "2020 - 2024",
     location: "Remote",
     description:
-      "Frontend development of web and mobile applications using JavaScript frameworks, ensuring optimal performance, cross-platform compatibility, and enhanced scalability. Designed intuitive, responsive interfaces with Figma, Adobe XD, and Sketch, improving user experience and boosting conversion rates by 25% through optimized design.",
+      "Designing intuitive user experiences and user-centered design strategies. Creation of functional and aesthetically appealing interfaces, optimizing usability and engagement. Research, prototyping and testing to guarantee innovative and strategic digital solutions.",
     tech: [
-      "React",
-      "Angular",
-      "Vue",
-      "Next",
       "Figma",
       "Sketch",
       "Adobe Illustrator",
+      "InVision",
+      "Balsamiq",
     ],
   },
    
   {
-    title: "VarGroup",
-    position: "IT Support Specialist",
-    time: "2020 - 2021",
+    title: "Upwork",
+    position: "Front End Developer - UX/UI Designer",
+    time: "2018 - 2020",
     location: "Hybrid",
     description:
-      "IT systems management and maintenance, including first and second level technical support, LAN/WAN administration, network configuration and security, software patch implementation, and hardware and software installation.",
+      "Complete web and mobile application development covering design development and the front-end and back-end part for individuals and companies remotely.",
     tech: [
-      "LAN/WLAN Conf.",
-      "Firewall access policy",
-      "IT Security",
-      "Scripting",
-      "DHCP",
-      "DNS",
-      "Cisco",
-      "Nagios",
-      "VPN",
+      "React",
+      "Vue",
+      "Angular",
+      "Figma",
+      "Sketch",
+      "Adobe Illustrator",
     ],
   },
 ];
