@@ -14,14 +14,13 @@ export const Hero = () => {
         </Reveal>
         <Reveal>
           <h2 className={styles.subTitle}>
-            I&apos;m a <span>Front-End  Developer and IT Specialist</span>
+            I&apos;m a <span> UX/UI Designer and Front-End Developer  </span>
           </h2>
         </Reveal>
         <Reveal>
           <p className={styles.aboutCopy}>
-         Recent graduate with experience in front-end development and IT support. Passionate about technology and problem solving, I combine technical skills to develop effective solutions for both web and IT infrastructure.
-          <br /> 
-          Let&apos;s connect!💻💡
+Recent graduate with a strong background in front-end development and UX/UI design. Passionate about technology and problem-solving, I leverage my technical expertise to create intuitive, user-friendly digital experiences that seamlessly blend functionality and aesthetics.          <br /> 
+          Let&apos;s connect!😊🎨
           </p>
         </Reveal>
         <Reveal>
