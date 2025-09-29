@@ -14,35 +14,35 @@ export const Experience = () => {
 
 const experience = [
   {
-    title: "AStudio",
-    position: "UX/UI Designer - UX Strategist",
-    time: "2020 - 2024",
-    location: "Remote",
+    title: "Trentino Digitale S.p.A.",
+    position: "Software Developer - UX/UI Designer",
+    time: "2025 - Now",
+    location: "Hybrid",
     description:
-      "Designing intuitive user experiences and user-centered design strategies. Creation of functional and aesthetically appealing interfaces, optimizing usability and engagement. Research, prototyping and testing to guarantee innovative and strategic digital solutions.",
+      "Contributed to the development and maintenance of digital applications and information systems for the Autonomous Province of Trento, supporting the modernization and digital transformation of public services. Focused on designing and implementing modern software architectures, integrating national and regional platforms, and optimizing administrative and operational processes to improve efficiency, interoperability, and user experience within the public sector.",
     tech: [
       "Figma",
-      "Sketch",
-      "Adobe Illustrator",
-      "InVision",
-      "Balsamiq",
+      "AngularJS",
+      "GitLab CI/CD",
+      "React",
+      "Kubernetes",
     ],
   },
    
   {
-    title: "Upwork",
-    position: "Front End Developer - UX/UI Designer",
-    time: "2018 - 2020",
+    title: "VarGroup",
+    position: "SOC Analyst",
+    time: "2022 - 2024",
     location: "Hybrid",
     description:
-      "Complete web and mobile application development covering design development and the front-end and back-end part for individuals and companies remotely.",
+      "Performed continuous monitoring of networks and systems to detect cybersecurity threats, analyzed security alerts using SIEM platforms, and managed incidents following standard operating procedures. Collaborated closely with IT and cybersecurity teams to contain and mitigate attacks, strengthen security processes, and protect organizational infrastructure. Focused on proactive threat detection, basic forensic analysis, and thorough incident documentation to optimize response and prevention strategies.",
     tech: [
-      "React",
-      "Vue",
-      "Angular",
-      "Figma",
-      "Sketch",
-      "Adobe Illustrator",
+      "SIEM",
+      "Networking",
+      "IT Security",
+      "Firewall and Network Security",
+      "PowerShell",
+      "Cisco",
     ],
   },
 ];
